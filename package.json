@@ -42,7 +42,7 @@
     "ipfs": "^0.54.4",
     "ipfs-coord": "^3.2.0",
     "jsonrpc-lite": "^2.2.0",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "kcors": "^2.2.2",
     "koa": "^2.13.1",
     "koa-bodyparser": "^4.3.0",
